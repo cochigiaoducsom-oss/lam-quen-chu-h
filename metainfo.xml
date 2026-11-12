@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<presentation guid="F720658D-6855-4D61-B7FE-ACC145438D5B" version="0" availableOffline="1">
+	<info>
+		<title>Làm quen với chữ h</title>
+		<description/>
+	</info>
+	<files index="id54" thumbnail="id77" totalSize="26179240">
+		<file id="id0">data/thmb1.png</file>
+		<file id="id1">data/video1.mp4</file>
+		<file id="id2">data/slide1.js</file>
+		<file id="id3">data/slide1.css</file>
+		<file id="id4">data/thmb2.jpg</file>
+		<file id="id5">data/video2.mp4</file>
+		<file id="id6">data/slide2.js</file>
+		<file id="id7">data/slide2.css</file>
+		<file id="id8">data/thmb3.png</file>
+		<file id="id9">data/quiz1.js</file>
+		<file id="id10">data/quiz1/audios/snd-4fa0-fec5-bcc6-b36c.mp3</file>
+		<file id="id11">data/quiz1/audios/snd-5f85-c24b-791b-e5a9.mp3</file>
+		<file id="id12">data/quiz1/audios/snd-6ac3-8357-8bf7-2fc8.mp3</file>
+		<file id="id13">data/quiz1/audios/snd-7b24-9e58-4ae8-d6e3.mp3</file>
+		<file id="id14">data/quiz1/audios/snd-86b4-42cd-32ad-ab46.mp3</file>
+		<file id="id15">data/quiz1/audios/snd-93e4-3718-e161-bf64.mp3</file>
+		<file id="id16">data/quiz1/audios/snd-9edc-ae2e-8a1e-fcab.mp3</file>
+		<file id="id17">data/quiz1/audios/snd-a6f0-fb25-0f22-2e79.mp3</file>
+		<file id="id18">data/quiz1/audios/snd-baec-0822-fa00-4a22.mp3</file>
+		<file id="id19">data/quiz1/audios/snd-d7c5-a6b7-0962-68ab.mp3</file>
+		<file id="id20">data/quiz1/audios/snd-e311-29e7-41c6-eb29.mp3</file>
+		<file id="id21">data/quiz1/audios/snd-eb05-5f66-f9cd-a5d6.mp3</file>
+		<file id="id22">data/quiz1/audios/snd-f896-68f1-906b-0193.mp3</file>
+		<file id="id23">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id24">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id25">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id26">data/quiz1/images/1737-3672-403f-f126.png</file>
+		<file id="id27">data/quiz1/images/771c-0845-d456-c1bf.png</file>
+		<file id="id28">data/quiz1/images/af00-3ac6-ad43-cc81.png</file>
+		<file id="id29">data/quiz1/images/img-0006-c92c-eace-4391.png</file>
+		<file id="id30">data/quiz1/images/img-0f40-847f-49cf-2fc7.jpg</file>
+		<file id="id31">data/quiz1/images/img-1749-019e-7880-472a.png</file>
+		<file id="id32">data/quiz1/images/img-1845-1c2d-1e55-5578.png</file>
+		<file id="id33">data/quiz1/images/img-1f70-015b-0c9b-5e31.png</file>
+		<file id="id34">data/quiz1/images/img-38b0-764d-15f4-2285.png</file>
+		<file id="id35">data/quiz1/images/img-3e0d-aa03-b310-7b6f.png</file>
+		<file id="id36">data/quiz1/images/img-412a-ff39-3e4c-084a.png</file>
+		<file id="id37">data/quiz1/images/img-4e4e-e73f-c076-a571.png</file>
+		<file id="id38">data/quiz1/images/img-56fc-be85-ba40-5998.png</file>
+		<file id="id39">data/quiz1/images/img-6420-d943-b64b-c0e1.png</file>
+		<file id="id40">data/quiz1/images/img-74b3-1bb9-bdcb-64f1.png</file>
+		<file id="id41">data/quiz1/images/img-8f53-9c0c-fa57-e397.png</file>
+		<file id="id42">data/quiz1/images/img-bd58-feac-fe79-8f27.png</file>
+		<file id="id43">data/quiz1/images/img-cdb7-34d5-fa82-f263.png</file>
+		<file id="id44">data/quiz1/images/img-e9e9-73b4-b446-e06c.png</file>
+		<file id="id45">data/quiz1/images/img-ec07-4733-699a-606d.png</file>
+		<file id="id46">data/quiz1/images/img-f208-19c2-641e-5346.png</file>
+		<file id="id47">data/quiz1/images/img-f380-a50d-d831-9150.png</file>
+		<file id="id48">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id49">data/thmb4.png</file>
+		<file id="id50">data/video3.mp4</file>
+		<file id="id51">data/slide4.js</file>
+		<file id="id52">data/slide4.css</file>
+		<file id="id53">data/quizplayer.js</file>
+		<file id="id54">index.html</file>
+		<file id="id55">data/player.js</file>
+		<file id="id60">data/browsersupport.js</file>
+		<file id="id61">data/apple-touch-icon.png</file>
+		<file id="id62">data/favicon.ico</file>
+		<file id="id63">data/fnt0.woff</file>
+		<file id="id64">data/fnt1.woff</file>
+		<file id="id65">data/fnt2.woff</file>
+		<file id="id66">data/fnt3.woff</file>
+		<file id="id67">data/fnt4.woff</file>
+		<file id="id68">data/html5-unsupported.html</file>
+		<file id="id69">data/html5.png</file>
+		<file id="id70">data/img0.jpg</file>
+		<file id="id71">data/img1.png</file>
+		<file id="id72">data/img2.jpg</file>
+		<file id="id73">data/img3.png</file>
+		<file id="id74">data/img4.png</file>
+		<file id="id75">data/img5.png</file>
+		<file id="id76">data/img6.jpg</file>
+		<file id="id77">data/ismplayer/preview.png</file>
+		<file id="id78">data/ismplayer/play.svg</file>
+		<file id="id79">data/ismplayer/style.css</file>
+		<file id="id80">data/ismplayer/style_mini.css</file>
+		<file id="id81">ismplayer.html</file>
+		<file id="id82">data/ismplayer/app_store2x.png</file>
+		<file id="id83">metainfo.xml</file>
+	</files>
+</presentation>
